@@ -1,4 +1,4 @@
-package com.petros.efthymiou.dailynews.android
+package com.dailynews.android
 
 import androidx.compose.foundation.isSystemInDarkTheme
 import androidx.compose.foundation.shape.RoundedCornerShape

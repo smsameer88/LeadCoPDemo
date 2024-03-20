@@ -1,4 +1,4 @@
-package com.petros.efthymiou.dailynews.android.screens
+package com.dailynews.android.screens
 
 
 import androidx.compose.foundation.layout.Box

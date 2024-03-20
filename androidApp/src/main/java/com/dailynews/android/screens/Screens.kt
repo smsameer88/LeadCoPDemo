@@ -1,4 +1,4 @@
-package com.petros.efthymiou.dailynews.android.screens
+package com.dailynews.android.screens
 
 enum class Screens(val route: String) {
     ARTICLES("reminders"),

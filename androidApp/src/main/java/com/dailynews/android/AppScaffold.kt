@@ -1,4 +1,4 @@
-package com.petros.efthymiou.dailynews.android
+package com.dailynews.android
 
 import androidx.compose.foundation.layout.fillMaxSize
 import androidx.compose.foundation.layout.padding
@@ -9,9 +9,9 @@ import androidx.navigation.NavHostController
 import androidx.navigation.compose.NavHost
 import androidx.navigation.compose.composable
 import androidx.navigation.compose.rememberNavController
-import com.petros.efthymiou.dailynews.android.screens.AboutScreen
-import com.petros.efthymiou.dailynews.android.screens.ArticlesScreen
-import com.petros.efthymiou.dailynews.android.screens.Screens
+import com.dailynews.android.screens.AboutScreen
+import com.dailynews.android.screens.ArticlesScreen
+import com.dailynews.android.screens.Screens
 import com.dailynews.news.ArticlesViewModel
 
 @Composable

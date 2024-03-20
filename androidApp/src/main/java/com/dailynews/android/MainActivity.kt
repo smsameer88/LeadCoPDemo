@@ -1,4 +1,4 @@
-package com.petros.efthymiou.dailynews.android
+package com.dailynews.android
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
